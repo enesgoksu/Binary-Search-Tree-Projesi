@@ -8,10 +8,10 @@ Binary Search Tree Projesi Çalışmam
 ```
 [7,5,1,8,3,6,0,9,4,2] -> Binary-Search-Tree 
          [7] -> Root
-         /    \
-       [5]    [8]
-      /    \     \
-     [1]   [6]   [9]
+         /  \
+       [5]   [8]
+      /    \    \
+     [1]   [6]  [9]
     /   \ 
   [0]   [3]
         /  \
